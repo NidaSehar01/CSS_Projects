@@ -1,0 +1,30 @@
+p {
+    color: blueviolet;
+    background-color: antiquewhite;
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    color: red;
+    text-decoration: line-through;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: red;
+    text-decoration-thickness: 2px;
+
+}
+
+p {
+    text-transform: capitalize;
+    text-indent: 80px;
+    letter-spacing: 2px;
+    line-height: 1.6rem;
+    word-spacing: 10px;
+}
+
+h1 {
+    text-shadow: 2px 2px 1px blue;
+}
