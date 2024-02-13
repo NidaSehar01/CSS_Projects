@@ -1,0 +1,16 @@
+h1{
+    font-family:'Courier New', Courier, monospace;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: underline blue;
+    line-height: 3rem;
+
+}
+p{
+    font-family: "Sofia", cursive;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: oblique;
+    letter-spacing: 0.1rem;
+    word-spacing: 1rem;
+}
