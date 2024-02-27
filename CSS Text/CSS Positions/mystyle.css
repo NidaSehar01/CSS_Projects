@@ -1,0 +1,74 @@
+nav{
+    background: lightblue;
+    margin-bottom: 20px;
+    height: 60px;
+    width: 100%;
+    position: sticky;
+    top: 0;
+  }
+  
+  
+  .main{
+    margin:auto;
+    padding: 50px;
+    height: 700px;
+    width: 600px;
+    border: 1px solid black;
+  }
+  
+  .para{
+   border: 1px solid red;
+   padding: 40px;
+  }
+  
+  
+  .rightcontainer{
+    border: 1px solid blue;
+    height: 400px;
+    width: 300px;
+    background-color: pink;
+  position:sticky;
+  left: 4000px;
+  bottom: 100px;
+  z-index: -1;
+  display: inline-block;
+  }
+  
+  .contact{
+    background:lightgreen;
+    height: 100px;
+    width: 100px;
+    border-radius: 30%;
+    position: fixed;
+    bottom: 40px;
+   right: 20px;
+  }
+  
+  footer{
+    background: khaki;
+    height: 300px;
+    width: 100%;
+  }
+  .spacer{
+    border: 1px solid red;
+    height: 300vh;
+  }
+  
+  
+  ul {
+    list-style: square;
+    text-align: right;
+    padding: 20px;
+    color: black;
+  }
+  
+  li {
+    display: inline;
+    padding: 20px;
+  }
+  
+  li:hover {
+    color: blue;
+    cursor: pointer;
+    text-transform: uppercase;
+  }
